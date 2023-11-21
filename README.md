@@ -22,7 +22,8 @@
 </div>
 <div style="width:100%;">&nbsp;</div>
 <p>------------------------------------------------------------------------------------------------------------------------</p>
-# Indice
+#Indice
+
 1. [Definición del problema y motivación](#data1)
 2. [Objetivos](#data2)
 3. [Metodología](#data3)
